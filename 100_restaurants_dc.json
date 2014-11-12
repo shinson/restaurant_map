@@ -1,0 +1,1824 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.2655792, 
+                    38.9025378
+                ]
+            }, 
+            "properties": {
+                "address": "111 Church St.", 
+                "cuisine": "Mexican", 
+                "marker-symbol": "restaurant", 
+                "name": "Alegria", 
+                "price": "$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.05705780000001, 
+                    38.9339339
+                ]
+            }, 
+            "properties": {
+                "address": "3311 Connecticut Ave. NW", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Ardeo & Bardeo", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.4052494, 
+                    39.4142367
+                ]
+            }, 
+            "properties": {
+                "address": "6 N. East St.", 
+                "cuisine": "Middle Eastern", 
+                "marker-symbol": "restaurant", 
+                "name": "Ayse", 
+                "price": "$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0243629, 
+                    38.905145
+                ]
+            }, 
+            "properties": {
+                "address": "1124 9th St. NW", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Baby Wale", 
+                "price": "$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.1503302, 
+                    38.8672584
+                ]
+            }, 
+            "properties": {
+                "address": "6395 Seven Corners Center", 
+                "cuisine": "Laotian", 
+                "marker-symbol": "restaurant", 
+                "name": "Bangkok Golden", 
+                "price": "$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0316764, 
+                    38.9151237
+                ]
+            }, 
+            "properties": {
+                "address": "1833 14th St. NW", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Bar Pilar", 
+                "price": "$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0316764, 
+                    38.9151237
+                ]
+            }, 
+            "properties": {
+                "address": "1833 14th St. NW", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Bar Pilar", 
+                "price": "$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.04033319999999, 
+                    38.817358
+                ]
+            }, 
+            "properties": {
+                "address": "1201 N. Royal St.", 
+                "cuisine": "French", 
+                "marker-symbol": "restaurant", 
+                "name": "Bastille", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0313625, 
+                    38.9084906
+                ]
+            }, 
+            "properties": {
+                "address": "1337 14th St. NW", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Birch and Barley", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.096319, 
+                    38.987782
+                ]
+            }, 
+            "properties": {
+                "address": "7750 Woodmont Ave.", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Black's Bar and Kitchen", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0966507, 
+                    38.917772
+                ]
+            }, 
+            "properties": {
+                "address": "4883 MacArthur Blvd. NW", 
+                "cuisine": "Seafood", 
+                "marker-symbol": "restaurant", 
+                "name": "Blacksalt", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.03757990000001, 
+                    38.9017187
+                ]
+            }, 
+            "properties": {
+                "address": "1625 I St. NW", 
+                "cuisine": "Steakhouse", 
+                "marker-symbol": "restaurant", 
+                "name": "BLT Steak", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0510323, 
+                    38.9058769
+                ]
+            }, 
+            "properties": {
+                "address": "1201 24th St. NW", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Blue Duck Tavern", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.038268, 
+                    38.9008459
+                ]
+            }, 
+            "properties": {
+                "address": "815 Connecticut Ave. NW", 
+                "cuisine": "Indian", 
+                "marker-symbol": "restaurant", 
+                "name": "Bombay Club", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0844158, 
+                    38.881083
+                ]
+            }, 
+            "properties": {
+                "address": "2209-E N. Pershing Dr.", 
+                "cuisine": "Korean", 
+                "marker-symbol": "restaurant", 
+                "name": "Bonchon Chicken", 
+                "price": "$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0431399, 
+                    38.905921
+                ]
+            }, 
+            "properties": {
+                "address": "1837 M St. NW", 
+                "cuisine": "Spanish", 
+                "marker-symbol": "restaurant", 
+                "name": "Boqueria", 
+                "price": "$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0575301, 
+                    38.904645
+                ]
+            }, 
+            "properties": {
+                "address": "2800 Pennsylvania Ave. NW", 
+                "cuisine": "Steakhouse", 
+                "marker-symbol": "restaurant", 
+                "name": "Bourbon Steak", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.056851, 
+                    38.805982
+                ]
+            }, 
+            "properties": {
+                "address": "1600 King St.", 
+                "cuisine": "Belgian", 
+                "marker-symbol": "restaurant", 
+                "name": "Brabo by Robert Wiedmaier", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0267444, 
+                    38.9017319
+                ]
+            }, 
+            "properties": {
+                "address": "1099 New York Ave. NW", 
+                "cuisine": "Italian", 
+                "marker-symbol": "restaurant", 
+                "name": "Casa Luca", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.043671, 
+                    38.921897
+                ]
+            }, 
+            "properties": {
+                "address": "1819 Columbia Rd. NW", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Cashion's Eat Place", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -76.9953419, 
+                    38.88189
+                ]
+            }, 
+            "properties": {
+                "address": "527 8th St. SE", 
+                "cuisine": "Greek", 
+                "marker-symbol": "restaurant", 
+                "name": "Cava Mezze", 
+                "price": "$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -76.9953419, 
+                    38.88189
+                ]
+            }, 
+            "properties": {
+                "address": "527 8th St. SE", 
+                "cuisine": "Greek", 
+                "marker-symbol": "restaurant", 
+                "name": "Cava Mezze", 
+                "price": "$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.2038539, 
+                    39.0914916
+                ]
+            }, 
+            "properties": {
+                "address": "9713 Traville Gateway Drive", 
+                "cuisine": "Greek", 
+                "marker-symbol": "restaurant", 
+                "name": "Cava Mezze", 
+                "price": "$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.026478, 
+                    38.89511299999999
+                ]
+            }, 
+            "properties": {
+                "address": "1001 Pennsylvania Ave. NW", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Central Michel Richard", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0304596, 
+                    38.8835844
+                ]
+            }, 
+            "properties": {
+                "address": "1330 Maryland Ave. SW", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "CityZen", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0243629, 
+                    38.905076
+                ]
+            }, 
+            "properties": {
+                "address": "1122 9th St. NW", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Corduroy", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0322176, 
+                    38.9133391
+                ]
+            }, 
+            "properties": {
+                "address": "1720 14th St. NW", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Cork", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.019589, 
+                    38.898603
+                ]
+            }, 
+            "properties": {
+                "address": "705 6th St. NW", 
+                "cuisine": "Japanese", 
+                "marker-symbol": "restaurant", 
+                "name": "Daikaya", 
+                "price": "$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0227419, 
+                    38.9010641
+                ]
+            }, 
+            "properties": {
+                "address": "777 I St. NW", 
+                "cuisine": "Latin", 
+                "marker-symbol": "restaurant", 
+                "name": "Del Campo", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0419585, 
+                    38.907845
+                ]
+            }, 
+            "properties": {
+                "address": "1317 Connecticut Ave. NW", 
+                "cuisine": "Jewish", 
+                "marker-symbol": "restaurant", 
+                "name": "DGS Delicatessan", 
+                "price": "$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0322091, 
+                    38.9143611
+                ]
+            }, 
+            "properties": {
+                "address": "1800 14th St. NW", 
+                "cuisine": "Asian Fusion", 
+                "marker-symbol": "restaurant", 
+                "name": "Doi Moi", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.02896179999999, 
+                    38.9939371
+                ]
+            }, 
+            "properties": {
+                "address": "8407 Ramsey Ave. ", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "8407 Kitchen Bar", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0322874, 
+                    38.9102745
+                ]
+            }, 
+            "properties": {
+                "address": "1520 14th St. NW", 
+                "cuisine": "Spanish", 
+                "marker-symbol": "restaurant", 
+                "name": "Estadio", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.000387, 
+                    38.89994799999999
+                ]
+            }, 
+            "properties": {
+                "address": "401 H St. NE", 
+                "cuisine": "Ethiopian", 
+                "marker-symbol": "restaurant", 
+                "name": "Ethiopic", 
+                "price": "$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.031618, 
+                    38.910967
+                ]
+            }, 
+            "properties": {
+                "address": "1541 14th St. NW", 
+                "cuisine": "Italian", 
+                "marker-symbol": "restaurant", 
+                "name": "Etto", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.1020296, 
+                    38.9254409
+                ]
+            }, 
+            "properties": {
+                "address": "5120 MacArthur Blvd.", 
+                "cuisine": "Belgian", 
+                "marker-symbol": "restaurant", 
+                "name": "Et Voila", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0212876, 
+                    38.8937372
+                ]
+            }, 
+            "properties": {
+                "address": "678 Indiana Ave. NW", 
+                "cuisine": "Italian", 
+                "marker-symbol": "restaurant", 
+                "name": "Fiola", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.09363929999999, 
+                    38.98236929999999
+                ]
+            }, 
+            "properties": {
+                "address": "7272 Wisconsin Ave.", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Food Wine & Co.", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0313585, 
+                    38.91943819999999
+                ]
+            }, 
+            "properties": {
+                "address": "2201 14th St. NW", 
+                "cuisine": "Sandwiches", 
+                "marker-symbol": "restaurant", 
+                "name": "G by Mike Isabella", 
+                "price": "$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.019589, 
+                    38.898672
+                ]
+            }, 
+            "properties": {
+                "address": "707 6th St. NW", 
+                "cuisine": "Italian", 
+                "marker-symbol": "restaurant", 
+                "name": "Graffiato", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.09256090000001, 
+                    38.88561079999999
+                ]
+            }, 
+            "properties": {
+                "address": "1025 N. Fillmore St", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Green Pig Bistro", 
+                "price": "$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.03811499999999, 
+                    38.910867
+                ]
+            }, 
+            "properties": {
+                "address": "1624 Q St. NW", 
+                "cuisine": "Seafood", 
+                "marker-symbol": "restaurant", 
+                "name": "Hank's Oyster Bar", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -76.99735, 
+                    38.884751
+                ]
+            }, 
+            "properties": {
+                "address": "633 Pennsylvania Ave. SE", 
+                "cuisine": "Seafood", 
+                "marker-symbol": "restaurant", 
+                "name": "Hank's Oyster Bar", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.051158, 
+                    38.8054684
+                ]
+            }, 
+            "properties": {
+                "address": "1026 King St. ", 
+                "cuisine": "Seafood", 
+                "marker-symbol": "restaurant", 
+                "name": "Hank's Oyster Bar", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -78.1604263, 
+                    38.7136656
+                ]
+            }, 
+            "properties": {
+                "address": "309 Middle St.", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "The Inn at Little Washington", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -78.1604263, 
+                    38.7136656
+                ]
+            }, 
+            "properties": {
+                "address": "309 Middle St.", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "The Inn at Little Washington", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0222721, 
+                    38.8959259
+                ]
+            }, 
+            "properties": {
+                "address": "480 7th St. NW", 
+                "cuisine": "Spanish", 
+                "marker-symbol": "restaurant", 
+                "name": "Jaleo", 
+                "price": "$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0098003, 
+                    38.8954347
+                ]
+            }, 
+            "properties": {
+                "address": "400 N. Capitol St. NW", 
+                "cuisine": "Seafood", 
+                "marker-symbol": "restaurant", 
+                "name": "Johnny's Half Shell", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0313585, 
+                    38.91943819999999
+                ]
+            }, 
+            "properties": {
+                "address": "2201 14th St. NW", 
+                "cuisine": "Greek", 
+                "marker-symbol": "restaurant", 
+                "name": "Kapnos", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0442492, 
+                    38.9015478
+                ]
+            }, 
+            "properties": {
+                "address": "1915 I St. NW", 
+                "cuisine": "Japanese", 
+                "marker-symbol": "restaurant", 
+                "name": "Kaz Sushi Bistro", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.1970375, 
+                    38.8318794
+                ]
+            }, 
+            "properties": {
+                "address": "4220-A Annandale Rd.", 
+                "cuisine": "Korean", 
+                "marker-symbol": "restaurant", 
+                "name": "Kogiya", 
+                "price": "$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.038134, 
+                    38.9101209
+                ]
+            }, 
+            "properties": {
+                "address": "1509 17th St. NW", 
+                "cuisine": "Greek", 
+                "marker-symbol": "restaurant", 
+                "name": "Komi", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.1417846, 
+                    39.0775432
+                ]
+            }, 
+            "properties": {
+                "address": "765-B Rockville Pike", 
+                "cuisine": "Peruvian", 
+                "marker-symbol": "restaurant", 
+                "name": "La Limena", 
+                "price": "$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.3054141, 
+                    39.0293081
+                ]
+            }, 
+            "properties": {
+                "address": "332 Springvale Rd.", 
+                "cuisine": "French", 
+                "marker-symbol": "restaurant", 
+                "name": "L'Auberge Chez Francois", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -78.09368479999999, 
+                    39.0708248
+                ]
+            }, 
+            "properties": {
+                "address": "13630 Lord Fairfax Hwy.", 
+                "cuisine": "French", 
+                "marker-symbol": "restaurant", 
+                "name": "La Table Provencale", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0322122, 
+                    38.9115769
+                ]
+            }, 
+            "properties": {
+                "address": "1610 14th St. NW", 
+                "cuisine": "French", 
+                "marker-symbol": "restaurant", 
+                "name": "Le Diplomate", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.09688299999999, 
+                    38.886373
+                ]
+            }, 
+            "properties": {
+                "address": "3195 Wilson Blvd.", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Liberty Tavern", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0381609, 
+                    38.9101383
+                ]
+            }, 
+            "properties": {
+                "address": "1511 17th St. NW", 
+                "cuisine": "Thai", 
+                "marker-symbol": "restaurant", 
+                "name": "Little Serow", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.09513009999999, 
+                    38.8862868
+                ]
+            }, 
+            "properties": {
+                "address": "3100 N. Washington Blvd.", 
+                "cuisine": "French", 
+                "marker-symbol": "restaurant", 
+                "name": "Lyon Hall", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.049566, 
+                    38.805621
+                ]
+            }, 
+            "properties": {
+                "address": "911 King St.", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "The Majestic", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.09637239999999, 
+                    38.9167732
+                ]
+            }, 
+            "properties": {
+                "address": "4822 MacArthur Blvd. NW", 
+                "cuisine": "Japanese", 
+                "marker-symbol": "restaurant", 
+                "name": "Makoto", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.2668578, 
+                    38.9004984
+                ]
+            }, 
+            "properties": {
+                "address": "147 Maple Ave.", 
+                "cuisine": "Asian Fusion", 
+                "marker-symbol": "restaurant", 
+                "name": "Maple Ave. Restaurant", 
+                "price": "$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -76.9715299, 
+                    38.873765
+                ]
+            }, 
+            "properties": {
+                "address": "2401 Pennsylvania Ave.", 
+                "cuisine": "French", 
+                "marker-symbol": "restaurant", 
+                "name": "Marcel's", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0235355, 
+                    38.8961435
+                ]
+            }, 
+            "properties": {
+                "address": "855 E St. NW", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Minibar", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.04333919999999, 
+                    38.92204
+                ]
+            }, 
+            "properties": {
+                "address": "1813 Columbia Rd. NW", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Mintwood Place", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -76.996494, 
+                    38.885356
+                ]
+            }, 
+            "properties": {
+                "address": "327 7th St. SE", 
+                "cuisine": "French", 
+                "marker-symbol": "restaurant", 
+                "name": "Montmartre", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.049252, 
+                    39.040312
+                ]
+            }, 
+            "properties": {
+                "address": "11301 Fern St. ", 
+                "cuisine": "Thai", 
+                "marker-symbol": "restaurant", 
+                "name": "Nava Thai", 
+                "price": "$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0236171, 
+                    38.896945
+                ]
+            }, 
+            "properties": {
+                "address": "800 F. St. NW", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Nopa Kitchen & Bar", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.225721, 
+                    38.9130989
+                ]
+            }, 
+            "properties": {
+                "address": "8100 Boone Blvd.", 
+                "cuisine": "Greek", 
+                "marker-symbol": "restaurant", 
+                "name": "Nostos", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.046227, 
+                    38.9098768
+                ]
+            }, 
+            "properties": {
+                "address": "2029 P St. NW", 
+                "cuisine": "Italian", 
+                "marker-symbol": "restaurant", 
+                "name": "Obelisk", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0384718, 
+                    38.9005046
+                ]
+            }, 
+            "properties": {
+                "address": "800 Connecticut Ave. NW", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Oval Room", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0584878, 
+                    38.9363842
+                ]
+            }, 
+            "properties": {
+                "address": "3529 Connecticut Ave. NW", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Palena & Palena Caf_", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.099141, 
+                    38.988674
+                ]
+            }, 
+            "properties": {
+                "address": "4931 Cordell Ave.", 
+                "cuisine": "Indian", 
+                "marker-symbol": "restaurant", 
+                "name": "Passage to India", 
+                "price": "$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.3571795, 
+                    38.95782510000001
+                ]
+            }, 
+            "properties": {
+                "address": "11960 Democracy Dr.", 
+                "cuisine": "Seafood", 
+                "marker-symbol": "restaurant", 
+                "name": "PassionFish", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0323707, 
+                    38.9116302
+                ]
+            }, 
+            "properties": {
+                "address": "1612 14th St. NW", 
+                "cuisine": "Seafood", 
+                "marker-symbol": "restaurant", 
+                "name": "Pearl Dive Oyster Palace", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.022688, 
+                    38.8986362
+                ]
+            }, 
+            "properties": {
+                "address": "775 G St. NW", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Proof", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -76.9974584, 
+                    38.9086354
+                ]
+            }, 
+            "properties": {
+                "address": "1309 5th St. NE", 
+                "cuisine": "Seafood", 
+                "marker-symbol": "restaurant", 
+                "name": "Rappahannock Oyster Bar", 
+                "price": "$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0213393, 
+                    38.8950011
+                ]
+            }, 
+            "properties": {
+                "address": "633 D St. NW", 
+                "cuisine": "Indian", 
+                "marker-symbol": "restaurant", 
+                "name": "Rasika", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0481684, 
+                    38.9049595
+                ]
+            }, 
+            "properties": {
+                "address": "1190 New Hampshire Ave. NW", 
+                "cuisine": "Indian", 
+                "marker-symbol": "restaurant", 
+                "name": "Rasika West End", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0870948, 
+                    38.8905986
+                ]
+            }, 
+            "properties": {
+                "address": "2300 Wilson Blvd.", 
+                "cuisine": "Steakhouse", 
+                "marker-symbol": "restaurant", 
+                "name": "Ray's the Steaks", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.07778379999999, 
+                    38.8939186
+                ]
+            }, 
+            "properties": {
+                "address": "1650 Wilson Blvd.", 
+                "cuisine": "Steakhouse", 
+                "marker-symbol": "restaurant", 
+                "name": "Ray's to the Third", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0065644, 
+                    38.9131296
+                ]
+            }, 
+            "properties": {
+                "address": "1822 1st St. NE", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "The Red Hen", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0446874, 
+                    38.804175
+                ]
+            }, 
+            "properties": {
+                "address": "110 S Pitt St. ", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Restaurant Eve", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.555841, 
+                    39.278459
+                ]
+            }, 
+            "properties": {
+                "address": "42461 Lovettsville Rd.", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Restaurant at Patowmack Farm", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.15521679999999, 
+                    38.8738339
+                ]
+            }, 
+            "properties": {
+                "address": "6775 Wilson Blvd.", 
+                "cuisine": "Vietnamese", 
+                "marker-symbol": "restaurant", 
+                "name": "Rice Paper", 
+                "price": "$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.057633, 
+                    38.934956
+                ]
+            }, 
+            "properties": {
+                "address": "3417 Connecticut Ave. NW", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Ripple", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.04986389999999, 
+                    38.9040305
+                ]
+            }, 
+            "properties": {
+                "address": "2275 L St. NW", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Ris", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.02486789999999, 
+                    38.90717799999999
+                ]
+            }, 
+            "properties": {
+                "address": "922 N St. NW", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Rogue 24", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -76.99532479999999, 
+                    38.8806431
+                ]
+            }, 
+            "properties": {
+                "address": "717 8th St. SE", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Rose's Luxury", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.04760859999999, 
+                    39.0417187
+                ]
+            }, 
+            "properties": {
+                "address": "11407 Amherst Ave.", 
+                "cuisine": "Thai", 
+                "marker-symbol": "restaurant", 
+                "name": "Ruan Thai", 
+                "price": "$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.1098117, 
+                    38.8827864
+                ]
+            }, 
+            "properties": {
+                "address": "1000 N. Randolph St.", 
+                "cuisine": "Russian", 
+                "marker-symbol": "restaurant", 
+                "name": "Rus Uz", 
+                "price": "$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0246895, 
+                    38.9161317
+                ]
+            }, 
+            "properties": {
+                "address": "1314 1/2 9th St. NW", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Seasonal Pantry", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0704882, 
+                    38.9060732
+                ]
+            }, 
+            "properties": {
+                "address": "1226 36th St. NW", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "1789", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.01946, 
+                    38.892703
+                ]
+            }, 
+            "properties": {
+                "address": "575 Pennsylvania Ave N.W.", 
+                "cuisine": "Asian Fusion", 
+                "marker-symbol": "restaurant", 
+                "name": "The Source", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -76.855454, 
+                    39.216524
+                ]
+            }, 
+            "properties": {
+                "address": "10215 Wincopin Cir.", 
+                "cuisine": "Japanese", 
+                "marker-symbol": "restaurant", 
+                "name": "Sushi Sono", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.03818590000002, 
+                    38.9099747
+                ]
+            }, 
+            "properties": {
+                "address": "1503 17th St. NW", 
+                "cuisine": "Japanese", 
+                "marker-symbol": "restaurant", 
+                "name": "Sushi Taro", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.02437479999999, 
+                    38.907373
+                ]
+            }, 
+            "properties": {
+                "address": "903 N St. NW", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Table", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -76.98903399999999, 
+                    38.900419
+                ]
+            }, 
+            "properties": {
+                "address": "1234 H St. NE", 
+                "cuisine": "Japanese", 
+                "marker-symbol": "restaurant", 
+                "name": "Toki Underground", 
+                "price": "$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.21488599999999, 
+                    38.8693929
+                ]
+            }, 
+            "properties": {
+                "address": "2941 Fairview Park Dr.", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "2941", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.073091, 
+                    38.9336232
+                ]
+            }, 
+            "properties": {
+                "address": "3715 Macomb St. NW", 
+                "cuisine": "Pizza ", 
+                "marker-symbol": "restaurant", 
+                "name": "2 Amy's", 
+                "price": "$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0522977, 
+                    38.8055249
+                ]
+            }, 
+            "properties": {
+                "address": "1120 King St.", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Vermillion", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0445711, 
+                    38.9054349
+                ]
+            }, 
+            "properties": {
+                "address": "1990 M St. NW", 
+                "cuisine": "Southern", 
+                "marker-symbol": "restaurant", 
+                "name": "Vidalia", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -76.488466, 
+                    38.966751
+                ]
+            }, 
+            "properties": {
+                "address": "909 Bay Ridge Ave.", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Vin 909 Winecafe", 
+                "price": "$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0490181, 
+                    38.9049374
+                ]
+            }, 
+            "properties": {
+                "address": "1190 22nd St. NW", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Westend Bistro", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -76.6453547, 
+                    39.3318518
+                ]
+            }, 
+            "properties": {
+                "address": "2010 Clipper Park Rd.", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Woodberry Kitchen", 
+                "price": "$$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0331626, 
+                    38.9001072
+                ]
+            }, 
+            "properties": {
+                "address": "1430 H St. NW", 
+                "cuisine": "American", 
+                "marker-symbol": "restaurant", 
+                "name": "Woodward Table", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "Type": "Point", 
+                "coordinates": [
+                    -77.0236388, 
+                    38.899132
+                ]
+            }, 
+            "properties": {
+                "address": "701 9th St. NW", 
+                "cuisine": "Greek", 
+                "marker-symbol": "restaurant", 
+                "name": "Zaytinya", 
+                "price": "$$$"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}
