@@ -2,11 +2,11 @@
     "features": [
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.2655792, 
                     38.9025378
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "111 Church St.", 
@@ -19,11 +19,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.05705780000001, 
                     38.9339339
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "3311 Connecticut Ave. NW", 
@@ -36,11 +36,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.4052494, 
                     39.4142367
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "6 N. East St.", 
@@ -53,11 +53,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0243629, 
                     38.905145
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1124 9th St. NW", 
@@ -70,11 +70,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.1503302, 
                     38.8672584
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "6395 Seven Corners Center", 
@@ -87,11 +87,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0316764, 
                     38.9151237
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1833 14th St. NW", 
@@ -104,11 +104,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -76.07441600000001, 
                     38.772996
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "28 S. Harrison St", 
@@ -121,11 +121,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.04033319999999, 
                     38.817358
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1201 N. Royal St.", 
@@ -138,11 +138,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0313625, 
                     38.9084906
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1337 14th St. NW", 
@@ -155,11 +155,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.096319, 
                     38.987782
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "7750 Woodmont Ave.", 
@@ -172,11 +172,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0966507, 
                     38.917772
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "4883 MacArthur Blvd. NW", 
@@ -189,11 +189,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.03757990000001, 
                     38.9017187
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1625 I St. NW", 
@@ -206,11 +206,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0510323, 
                     38.9058769
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1201 24th St. NW", 
@@ -223,11 +223,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.038268, 
                     38.9008459
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "815 Connecticut Ave. NW", 
@@ -240,11 +240,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0844158, 
                     38.881083
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "2209-E N. Pershing Dr.", 
@@ -257,11 +257,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0431399, 
                     38.905921
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1837 M St. NW", 
@@ -274,11 +274,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0575301, 
                     38.904645
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "2800 Pennsylvania Ave. NW", 
@@ -291,11 +291,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.056851, 
                     38.805982
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1600 King St.", 
@@ -308,11 +308,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0267444, 
                     38.9017319
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1099 New York Ave. NW", 
@@ -325,11 +325,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.043671, 
                     38.921897
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1819 Columbia Rd. NW", 
@@ -342,11 +342,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -76.9953419, 
                     38.88189
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "527 8th St. SE", 
@@ -359,11 +359,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -76.9953419, 
                     38.88189
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "527 8th St. SE", 
@@ -376,11 +376,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.2038539, 
                     39.0914916
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "9713 Traville Gateway Drive", 
@@ -393,11 +393,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.026478, 
                     38.89511299999999
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1001 Pennsylvania Ave. NW", 
@@ -410,11 +410,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0304596, 
                     38.8835844
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1330 Maryland Ave. SW", 
@@ -427,11 +427,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0243629, 
                     38.905076
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1122 9th St. NW", 
@@ -444,11 +444,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0322176, 
                     38.9133391
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1720 14th St. NW", 
@@ -461,11 +461,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.019589, 
                     38.898603
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "705 6th St. NW", 
@@ -478,11 +478,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0227419, 
                     38.9010641
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "777 I St. NW", 
@@ -495,11 +495,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0419585, 
                     38.907845
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1317 Connecticut Ave. NW", 
@@ -512,11 +512,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0322091, 
                     38.9143611
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1800 14th St. NW", 
@@ -529,11 +529,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.02896179999999, 
                     38.9939371
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "8407 Ramsey Ave. ", 
@@ -546,28 +546,28 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
-                    -77.02896179999999, 
-                    38.9939371
-                ]
+                    -77.0322874, 
+                    38.9102745
+                ], 
+                "type": "Point"
             }, 
             "properties": {
-                "address": "8407 Ramsey Ave. ", 
-                "cuisine": "American", 
+                "address": "1520 14th St. NW", 
+                "cuisine": "Spanish", 
                 "marker-symbol": "restaurant", 
-                "name": "8407 Kitchen Bar", 
-                "price": "$$$$"
+                "name": "Estadio", 
+                "price": "$$$"
             }, 
             "type": "Feature"
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.000387, 
                     38.89994799999999
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "401 H St. NE", 
@@ -580,11 +580,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.031618, 
                     38.910967
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1541 14th St. NW", 
@@ -597,11 +597,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.1020296, 
                     38.9254409
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "5120 MacArthur Blvd.", 
@@ -614,11 +614,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0212876, 
                     38.8937372
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "678 Indiana Ave. NW", 
@@ -631,11 +631,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.09363929999999, 
                     38.98236929999999
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "7272 Wisconsin Ave.", 
@@ -648,11 +648,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0313585, 
                     38.91943819999999
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "2201 14th St. NW", 
@@ -665,11 +665,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.019589, 
                     38.898672
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "707 6th St. NW", 
@@ -682,11 +682,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.09256090000001, 
                     38.88561079999999
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1025 N. Fillmore St", 
@@ -699,11 +699,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.03811499999999, 
                     38.910867
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1624 Q St. NW", 
@@ -716,11 +716,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -76.99735, 
                     38.884751
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "633 Pennsylvania Ave. SE", 
@@ -733,11 +733,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.051158, 
                     38.8054684
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1026 King St. ", 
@@ -750,11 +750,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -78.1604263, 
                     38.7136656
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "309 Middle St.", 
@@ -767,11 +767,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.02778390000002, 
                     38.9182765
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1117 V. St. NW", 
@@ -784,11 +784,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0222721, 
                     38.8959259
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "480 7th St. NW", 
@@ -801,11 +801,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0098003, 
                     38.8954347
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "400 N. Capitol St. NW", 
@@ -818,11 +818,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0313585, 
                     38.91943819999999
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "2201 14th St. NW", 
@@ -835,11 +835,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0442492, 
                     38.9015478
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1915 I St. NW", 
@@ -852,11 +852,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.1970375, 
                     38.8318794
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "4220-A Annandale Rd.", 
@@ -869,11 +869,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.038134, 
                     38.9101209
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1509 17th St. NW", 
@@ -886,11 +886,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.1417846, 
                     39.0775432
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "765-B Rockville Pike", 
@@ -903,11 +903,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.3054141, 
                     39.0293081
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "332 Springvale Rd.", 
@@ -920,11 +920,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -78.09368479999999, 
                     39.0708248
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "13630 Lord Fairfax Hwy.", 
@@ -937,11 +937,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0322122, 
                     38.9115769
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1610 14th St. NW", 
@@ -954,11 +954,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.09688299999999, 
                     38.886373
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "3195 Wilson Blvd.", 
@@ -971,28 +971,28 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
-                    -77.09688299999999, 
-                    38.886373
-                ]
+                    -77.0381609, 
+                    38.9101383
+                ], 
+                "type": "Point"
             }, 
             "properties": {
-                "address": "3195 Wilson Blvd.", 
-                "cuisine": "American", 
+                "address": "1511 17th St. NW", 
+                "cuisine": "Thai", 
                 "marker-symbol": "restaurant", 
-                "name": "Liberty Tavern", 
-                "price": "$$$"
+                "name": "Little Serow", 
+                "price": "$$$$"
             }, 
             "type": "Feature"
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.09513009999999, 
                     38.8862868
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "3100 N. Washington Blvd.", 
@@ -1005,11 +1005,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.049566, 
                     38.805621
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "911 King St.", 
@@ -1022,11 +1022,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.09637239999999, 
                     38.9167732
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "4822 MacArthur Blvd. NW", 
@@ -1039,11 +1039,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.2668578, 
                     38.9004984
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "147 Maple Ave.", 
@@ -1056,11 +1056,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -76.9715299, 
                     38.873765
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "2401 Pennsylvania Ave.", 
@@ -1073,11 +1073,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0235355, 
                     38.8961435
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "855 E St. NW", 
@@ -1090,11 +1090,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.04333919999999, 
                     38.92204
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1813 Columbia Rd. NW", 
@@ -1107,11 +1107,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -76.996494, 
                     38.885356
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "327 7th St. SE", 
@@ -1124,11 +1124,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.049252, 
                     39.040312
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "11301 Fern St. ", 
@@ -1141,11 +1141,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0236171, 
                     38.896945
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "800 F. St. NW", 
@@ -1158,11 +1158,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.225721, 
                     38.9130989
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "8100 Boone Blvd.", 
@@ -1175,28 +1175,28 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
-                    -77.046227, 
-                    38.9098768
-                ]
+                    -77.225721, 
+                    38.9130989
+                ], 
+                "type": "Point"
             }, 
             "properties": {
-                "address": "2029 P St. NW", 
-                "cuisine": "Italian", 
+                "address": "8100 Boone Blvd.", 
+                "cuisine": "Greek", 
                 "marker-symbol": "restaurant", 
-                "name": "Obelisk", 
-                "price": "$$$$"
+                "name": "Nostos", 
+                "price": "$$$"
             }, 
             "type": "Feature"
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0384718, 
                     38.9005046
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "800 Connecticut Ave. NW", 
@@ -1209,11 +1209,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0584878, 
                     38.9363842
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "3529 Connecticut Ave. NW", 
@@ -1226,11 +1226,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.099141, 
                     38.988674
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "4931 Cordell Ave.", 
@@ -1243,11 +1243,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.3571795, 
                     38.95782510000001
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "11960 Democracy Dr.", 
@@ -1260,11 +1260,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0323707, 
                     38.9116302
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1612 14th St. NW", 
@@ -1277,11 +1277,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.022688, 
                     38.8986362
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "775 G St. NW", 
@@ -1294,11 +1294,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -76.9974584, 
                     38.9086354
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1309 5th St. NE", 
@@ -1311,11 +1311,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0213393, 
                     38.8950011
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "633 D St. NW", 
@@ -1328,11 +1328,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0481684, 
                     38.9049595
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1190 New Hampshire Ave. NW", 
@@ -1345,11 +1345,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0870948, 
                     38.8905986
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "2300 Wilson Blvd.", 
@@ -1362,11 +1362,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.07778379999999, 
                     38.8939186
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1650 Wilson Blvd.", 
@@ -1379,11 +1379,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0065644, 
                     38.9131296
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1822 1st St. NE", 
@@ -1396,11 +1396,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0446874, 
                     38.804175
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "110 S Pitt St. ", 
@@ -1413,11 +1413,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.555841, 
                     39.278459
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "42461 Lovettsville Rd.", 
@@ -1430,11 +1430,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.15521679999999, 
                     38.8738339
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "6775 Wilson Blvd.", 
@@ -1447,11 +1447,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.057633, 
                     38.934956
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "3417 Connecticut Ave. NW", 
@@ -1464,11 +1464,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.04986389999999, 
                     38.9040305
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "2275 L St. NW", 
@@ -1481,11 +1481,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.02486789999999, 
                     38.90717799999999
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "922 N St. NW", 
@@ -1498,11 +1498,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -76.99532479999999, 
                     38.8806431
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "717 8th St. SE", 
@@ -1515,11 +1515,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.04760859999999, 
                     39.0417187
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "11407 Amherst Ave.", 
@@ -1532,11 +1532,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.1098117, 
                     38.8827864
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1000 N. Randolph St.", 
@@ -1549,11 +1549,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0246895, 
                     38.9161317
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1314 1/2 9th St. NW", 
@@ -1566,11 +1566,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0704882, 
                     38.9060732
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1226 36th St. NW", 
@@ -1583,11 +1583,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.01946, 
                     38.892703
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "575 Pennsylvania Ave N.W.", 
@@ -1600,11 +1600,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -76.855454, 
                     39.216524
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "10215 Wincopin Cir.", 
@@ -1617,11 +1617,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.03818590000002, 
                     38.9099747
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1503 17th St. NW", 
@@ -1634,11 +1634,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.02437479999999, 
                     38.907373
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "903 N St. NW", 
@@ -1651,11 +1651,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -76.98903399999999, 
                     38.900419
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1234 H St. NE", 
@@ -1668,11 +1668,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.21488599999999, 
                     38.8693929
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "2941 Fairview Park Dr.", 
@@ -1685,11 +1685,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.073091, 
                     38.9336232
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "3715 Macomb St. NW", 
@@ -1702,11 +1702,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0522977, 
                     38.8055249
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1120 King St.", 
@@ -1719,11 +1719,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0445711, 
                     38.9054349
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1990 M St. NW", 
@@ -1736,11 +1736,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -76.488466, 
                     38.966751
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "909 Bay Ridge Ave.", 
@@ -1753,11 +1753,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0490181, 
                     38.9049374
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1190 22nd St. NW", 
@@ -1770,11 +1770,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -76.6453547, 
                     39.3318518
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "2010 Clipper Park Rd.", 
@@ -1787,11 +1787,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0331626, 
                     38.9001072
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "1430 H St. NW", 
@@ -1804,11 +1804,11 @@
         }, 
         {
             "geometry": {
-                "Type": "Point", 
                 "coordinates": [
                     -77.0236388, 
                     38.899132
-                ]
+                ], 
+                "type": "Point"
             }, 
             "properties": {
                 "address": "701 9th St. NW", 

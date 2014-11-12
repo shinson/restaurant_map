@@ -29,7 +29,7 @@ for key in nestdict:
 		object = {
 		"type": "Feature", 
 		"geometry": {
-			"Type": "Point", 
+			"type": "Point", 
 			"coordinates" : [
 			longitude, 
 			latitude
