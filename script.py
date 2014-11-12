@@ -27,14 +27,20 @@ for key in nestdict:
 		
 	else:
 		object = {
-		"type": "point", 
-		"geometry": {"Type": "Point", "coordinates" : [longitude, latitude]},
+		"type": "Feature", 
+		"geometry": {
+			"Type": "Point", 
+			"coordinates" : [
+			longitude, 
+			latitude
+			]
+		},
 		"properties": {
-			"marker-symbol": "restaurant", 
-			"name": nestdict[key]["Restaurant"], 
-			"address": nestdict[key]["Address"], 
-			"cuisine": nestdict[key]["Cuisine"],  
-			"price": nestdict[key]["Dollar"],
+				"marker-symbol": "restaurant", 
+				"name": nestdict[key]["Restaurant"], 
+				"address": nestdict[key]["Address"], 
+				"cuisine": nestdict[key]["Cuisine"],  
+				"price": nestdict[key]["Dollar"],
 		}
 	}
 	
