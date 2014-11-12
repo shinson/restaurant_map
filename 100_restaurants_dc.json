@@ -15,7 +15,7 @@
                 "name": "Alegria", 
                 "price": "$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -32,7 +32,7 @@
                 "name": "Ardeo & Bardeo", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -49,7 +49,7 @@
                 "name": "Ayse", 
                 "price": "$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -66,7 +66,7 @@
                 "name": "Baby Wale", 
                 "price": "$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -83,7 +83,7 @@
                 "name": "Bangkok Golden", 
                 "price": "$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -100,24 +100,24 @@
                 "name": "Bar Pilar", 
                 "price": "$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
                 "Type": "Point", 
                 "coordinates": [
-                    -77.0316764, 
-                    38.9151237
+                    -76.07441600000001, 
+                    38.772996
                 ]
             }, 
             "properties": {
-                "address": "1833 14th St. NW", 
+                "address": "28 S. Harrison St", 
                 "cuisine": "American", 
                 "marker-symbol": "restaurant", 
-                "name": "Bar Pilar", 
-                "price": "$$"
+                "name": "Bartlett Pear Inn", 
+                "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -134,7 +134,7 @@
                 "name": "Bastille", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -151,7 +151,7 @@
                 "name": "Birch and Barley", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -168,7 +168,7 @@
                 "name": "Black's Bar and Kitchen", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -185,7 +185,7 @@
                 "name": "Blacksalt", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -202,7 +202,7 @@
                 "name": "BLT Steak", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -219,7 +219,7 @@
                 "name": "Blue Duck Tavern", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -236,7 +236,7 @@
                 "name": "Bombay Club", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -253,7 +253,7 @@
                 "name": "Bonchon Chicken", 
                 "price": "$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -270,7 +270,7 @@
                 "name": "Boqueria", 
                 "price": "$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -287,7 +287,7 @@
                 "name": "Bourbon Steak", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -304,7 +304,7 @@
                 "name": "Brabo by Robert Wiedmaier", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -321,7 +321,7 @@
                 "name": "Casa Luca", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -338,7 +338,7 @@
                 "name": "Cashion's Eat Place", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -355,7 +355,7 @@
                 "name": "Cava Mezze", 
                 "price": "$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -372,7 +372,7 @@
                 "name": "Cava Mezze", 
                 "price": "$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -389,7 +389,7 @@
                 "name": "Cava Mezze", 
                 "price": "$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -406,7 +406,7 @@
                 "name": "Central Michel Richard", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -423,7 +423,7 @@
                 "name": "CityZen", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -440,7 +440,7 @@
                 "name": "Corduroy", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -457,7 +457,7 @@
                 "name": "Cork", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -474,7 +474,7 @@
                 "name": "Daikaya", 
                 "price": "$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -491,7 +491,7 @@
                 "name": "Del Campo", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -508,7 +508,7 @@
                 "name": "DGS Delicatessan", 
                 "price": "$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -525,7 +525,7 @@
                 "name": "Doi Moi", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -542,7 +542,7 @@
                 "name": "8407 Kitchen Bar", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -559,7 +559,7 @@
                 "name": "Estadio", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -576,24 +576,24 @@
                 "name": "Ethiopic", 
                 "price": "$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
                 "Type": "Point", 
                 "coordinates": [
-                    -77.031618, 
-                    38.910967
+                    -77.000387, 
+                    38.89994799999999
                 ]
             }, 
             "properties": {
-                "address": "1541 14th St. NW", 
-                "cuisine": "Italian", 
+                "address": "401 H St. NE", 
+                "cuisine": "Ethiopian", 
                 "marker-symbol": "restaurant", 
-                "name": "Etto", 
-                "price": "$$$"
+                "name": "Ethiopic", 
+                "price": "$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -610,7 +610,7 @@
                 "name": "Et Voila", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -627,7 +627,7 @@
                 "name": "Fiola", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -644,7 +644,7 @@
                 "name": "Food Wine & Co.", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -661,7 +661,7 @@
                 "name": "G by Mike Isabella", 
                 "price": "$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -678,7 +678,7 @@
                 "name": "Graffiato", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -695,7 +695,7 @@
                 "name": "Green Pig Bistro", 
                 "price": "$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -712,7 +712,7 @@
                 "name": "Hank's Oyster Bar", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -729,7 +729,7 @@
                 "name": "Hank's Oyster Bar", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -746,7 +746,7 @@
                 "name": "Hank's Oyster Bar", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -763,24 +763,24 @@
                 "name": "The Inn at Little Washington", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
                 "Type": "Point", 
                 "coordinates": [
-                    -78.1604263, 
-                    38.7136656
+                    -77.02778390000002, 
+                    38.9182765
                 ]
             }, 
             "properties": {
-                "address": "309 Middle St.", 
-                "cuisine": "American", 
+                "address": "1117 V. St. NW", 
+                "cuisine": "Japanese", 
                 "marker-symbol": "restaurant", 
-                "name": "The Inn at Little Washington", 
-                "price": "$$$$"
+                "name": "Izakaya Seki", 
+                "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -797,7 +797,7 @@
                 "name": "Jaleo", 
                 "price": "$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -814,7 +814,7 @@
                 "name": "Johnny's Half Shell", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -831,7 +831,7 @@
                 "name": "Kapnos", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -848,7 +848,7 @@
                 "name": "Kaz Sushi Bistro", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -865,7 +865,7 @@
                 "name": "Kogiya", 
                 "price": "$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -882,7 +882,7 @@
                 "name": "Komi", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -899,7 +899,7 @@
                 "name": "La Limena", 
                 "price": "$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -916,7 +916,7 @@
                 "name": "L'Auberge Chez Francois", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -933,7 +933,7 @@
                 "name": "La Table Provencale", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -950,7 +950,7 @@
                 "name": "Le Diplomate", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -967,7 +967,7 @@
                 "name": "Liberty Tavern", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -984,7 +984,7 @@
                 "name": "Little Serow", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1001,7 +1001,7 @@
                 "name": "Lyon Hall", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1018,7 +1018,7 @@
                 "name": "The Majestic", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1035,7 +1035,7 @@
                 "name": "Makoto", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1052,7 +1052,7 @@
                 "name": "Maple Ave. Restaurant", 
                 "price": "$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1069,7 +1069,7 @@
                 "name": "Marcel's", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1086,7 +1086,7 @@
                 "name": "Minibar", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1103,7 +1103,7 @@
                 "name": "Mintwood Place", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1120,7 +1120,7 @@
                 "name": "Montmartre", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1137,7 +1137,7 @@
                 "name": "Nava Thai", 
                 "price": "$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1154,7 +1154,7 @@
                 "name": "Nopa Kitchen & Bar", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1171,7 +1171,7 @@
                 "name": "Nostos", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1188,7 +1188,7 @@
                 "name": "Obelisk", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1205,7 +1205,7 @@
                 "name": "Oval Room", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1222,7 +1222,7 @@
                 "name": "Palena & Palena Caf_", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1239,7 +1239,7 @@
                 "name": "Passage to India", 
                 "price": "$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1256,7 +1256,7 @@
                 "name": "PassionFish", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1273,7 +1273,7 @@
                 "name": "Pearl Dive Oyster Palace", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1290,7 +1290,7 @@
                 "name": "Proof", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1307,7 +1307,7 @@
                 "name": "Rappahannock Oyster Bar", 
                 "price": "$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1324,7 +1324,7 @@
                 "name": "Rasika", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1341,7 +1341,7 @@
                 "name": "Rasika West End", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1358,7 +1358,7 @@
                 "name": "Ray's the Steaks", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1375,7 +1375,7 @@
                 "name": "Ray's to the Third", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1392,7 +1392,7 @@
                 "name": "The Red Hen", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1409,7 +1409,7 @@
                 "name": "Restaurant Eve", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1426,7 +1426,7 @@
                 "name": "Restaurant at Patowmack Farm", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1443,7 +1443,7 @@
                 "name": "Rice Paper", 
                 "price": "$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1460,7 +1460,7 @@
                 "name": "Ripple", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1477,7 +1477,7 @@
                 "name": "Ris", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1494,7 +1494,7 @@
                 "name": "Rogue 24", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1511,7 +1511,7 @@
                 "name": "Rose's Luxury", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1528,7 +1528,7 @@
                 "name": "Ruan Thai", 
                 "price": "$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1545,7 +1545,7 @@
                 "name": "Rus Uz", 
                 "price": "$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1562,7 +1562,7 @@
                 "name": "Seasonal Pantry", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1579,7 +1579,7 @@
                 "name": "1789", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1596,7 +1596,7 @@
                 "name": "The Source", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1613,7 +1613,7 @@
                 "name": "Sushi Sono", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1630,7 +1630,7 @@
                 "name": "Sushi Taro", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1647,7 +1647,7 @@
                 "name": "Table", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1664,7 +1664,7 @@
                 "name": "Toki Underground", 
                 "price": "$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1681,7 +1681,7 @@
                 "name": "2941", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1698,7 +1698,7 @@
                 "name": "2 Amy's", 
                 "price": "$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1715,7 +1715,7 @@
                 "name": "Vermillion", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1732,7 +1732,7 @@
                 "name": "Vidalia", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1749,7 +1749,7 @@
                 "name": "Vin 909 Winecafe", 
                 "price": "$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1766,7 +1766,7 @@
                 "name": "Westend Bistro", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1783,7 +1783,7 @@
                 "name": "Woodberry Kitchen", 
                 "price": "$$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1800,7 +1800,7 @@
                 "name": "Woodward Table", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }, 
         {
             "geometry": {
@@ -1817,7 +1817,7 @@
                 "name": "Zaytinya", 
                 "price": "$$$"
             }, 
-            "type": "Feature"
+            "type": "point"
         }
     ], 
     "type": "FeatureCollection"

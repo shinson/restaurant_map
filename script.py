@@ -27,7 +27,7 @@ for key in nestdict:
 		
 	else:
 		object = {
-		"type": "Feature", 
+		"type": "point", 
 		"geometry": {"Type": "Point", "coordinates" : [longitude, latitude]},
 		"properties": {
 			"marker-symbol": "restaurant", 
